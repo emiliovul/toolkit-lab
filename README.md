@@ -11,3 +11,6 @@ uv add pandas python-dotenv streamlit
 
 uv run python main.py
 (führt main.py hier aus)
+
+code .
+(öffnet vs code)
